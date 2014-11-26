@@ -15,7 +15,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Krzysztof Poznakowski
+ * @author Krzysztof Poznakowski 
  */
 public class Vector2DTest {
     
